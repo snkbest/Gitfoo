@@ -6,3 +6,4 @@ function sayHello() {
 /* sayHello() */
 
 console.log(sayHello);
+
