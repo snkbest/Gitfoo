@@ -1,0 +1,19 @@
+
+body {
+    background-color: aqua;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+  
+h2 {
+    text-align: center;
+    color: red;
+}
+  
+p {
+    color: rgb(3, 3, 3);
+}
